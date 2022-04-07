@@ -94,9 +94,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=erenalkan&&style=flat-square" align="center" />
-</div>  
+![Profile views counter](https://komarev.com/ghpvc/?username=seydanurdemir&&style=flat-square)  
   
 
 <br/>  
