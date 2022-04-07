@@ -94,7 +94,6 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=seydanurdemir&&style=flat-square)  
   
 
 <br/>  
