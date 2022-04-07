@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGYb01xO7GW8Q/profile-displaybackgroundimage-shrink_350_1400/0/1636713691266?e=1654732800&v=beta&t=qE_EjFGxncto5rguD5aqX5fh4uyMdDWWHbvcQcaE5HM" align="center" style="width: 100%" />
+
 <h3 align="center">A Passionate Game Developer</h3>
 
 - 🔭 I’m currently working on **HyperCasual Unity Games**
