@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **HyperCasual Unity Games**
 
-- 🌱 I’m currently learning **Asp.Net MVC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
