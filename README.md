@@ -2,7 +2,7 @@
 
 
 
-<img src="https://media-exp2.licdn.com/dms/image/C4E16AQGYb01xO7GW8Q/profile-displaybackgroundimage-shrink_350_1400/0/1636713691266?e=1660176000&v=beta&t=FZH5Mnu_n9mwS3QTeg0Mg9TpYwUFQ6YrSexhptZk7fg" align="center" style="width: 100%" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGYb01xO7GW8Q/profile-displaybackgroundimage-shrink_350_1400/0/1636713691266?e=1665619200&v=beta&t=r7vQnBF0oCfxH2gFqki51anjU3gQ0WidZL7aiLGmFZM" align="center" style="width: 100%" />
 
 <h3 align="center">A Passionate Game Developer</h3>
 
