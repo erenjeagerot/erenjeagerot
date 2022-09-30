@@ -26,11 +26,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  - 🔭 I’m currently working on **HyperCasual Unity Games**
+  - 
   
--  Unity
--  C#
--  Photoshop
+  -  Unity
+  -  C#
+  -  Photoshop
 
 <!--
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
