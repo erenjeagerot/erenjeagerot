@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 
 
-
+<!--
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGYb01xO7GW8Q/profile-displaybackgroundimage-shrink_350_1400/0/1636713691266?e=1665619200&v=beta&t=r7vQnBF0oCfxH2gFqki51anjU3gQ0WidZL7aiLGmFZM" align="center" style="width: 100%" />
+-->
 
 <h3 align="center">A Passionate Game Developer</h3>
 
